@@ -13,7 +13,8 @@ public class WinGet
     {
         { "VP9 Video Extensions", "9n4d0msmp0pt" },
         { "AV1 Video Extension", "9mvzqvxjbq9v" },
-        { "Dolby Digital Plus decoder for PC OEMs", "9nvjqjbdkn97" }
+        { "Dolby Digital Plus decoder for PC OEMs", "9nvjqjbdkn97" },
+        { "Web Media Extensions", "9n5tdp8vcmhs" }
     };
 
     [SupportedOSPlatform("windows")]
